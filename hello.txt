@@ -11,3 +11,4 @@ kogasa masterupdate
 kogasa hotfixupdate
 1111
 haha
+kogasa
